@@ -46,8 +46,3 @@
 
 <p align="left">💻 Développement et innovation technologique<br>🚀 Entrepreneuriat et création de startups<br>📖 Apprendre de nouvelles compétences et partager mes connaissances<br>⚽ Sports (toujours prêt à découvrir de nouvelles disciplines)</p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-<p align="left">Découvrez mes projets sur mon <a href="https://github.com/MIG-MAC" target="_blank">GitHub</a> !</p>
-
