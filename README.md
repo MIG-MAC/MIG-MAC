@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Je crée des solutions innovantes depuis mes débuts en programmation<br>📚 J'apprends actuellement à maîtriser les dernières technologies Full-Stack et l'architecture cloud<br>🎯 Objectifs : Lancer ma propre entreprise tech et contribuer à des projets à fort impact<br>🎲 Fun fact : Je peux passer des heures à déboguer... pour réaliser que c'était juste une faute de frappe 😅</p>
+<p align="left">✨ Je crée des solutions innovantes depuis mes débuts en programmation<br>📚 J'apprends actuellement à maîtriser les dernières technologies Full-Stack et l'architecture cloud<br>🎯 Objectifs : Lancer ma propre entreprise tech et contribuer à des projets à fort impact
 
 ###
 
