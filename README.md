@@ -44,5 +44,5 @@
 
 ###
 
-<p align="left">💻 Développement et innovation technologique<br><br>📖 Apprendre de nouvelles compétences et partager mes connaissances<br>⚽ Sports (toujours prêt à découvrir de nouvelles disciplines)</p>
+<p align="left">💻 Développement et innovation technologique<br>📖 Apprendre de nouvelles compétences et partager mes connaissances<br>⚽ Sports (toujours prêt à découvrir de nouvelles disciplines)</p>
 
