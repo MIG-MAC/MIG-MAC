@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Je m'appelle Miguel Cristino, j'ai 21 ans, et je suis un développeur Full-Stack passionné et entrepreneur en école d'ingénieur. Originaire de Bordeaux, je combine mes compétences techniques et mon esprit créatif pour donner vie à des projets ambitieux !</p>
+<p align="left">Je m'appelle Miguel Cristino, j'ai 21 ans, et je suis un développeur Full-Stack passionné et entrepreneur actuellement inscrit chez Epitech ! Originaire de Bordeaux, je combine mes compétences techniques et mon esprit créatif pour donner vie à des projets ambitieux !</p>
 
 ###
 
